@@ -131,6 +131,44 @@ line-height: 29px;
 color: #737272;
 }
 /* my plan end */
+/* bad habit start  */
+.habit{
+    margin-top:100px;
+    margin-bottom:15px;
+    font-family: Work Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 47px;
+color: #444343;
+text-align: center;
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+}
+.images_fact{
+    padding-left: 40px;
+}
+.images_fact img{
+height: 50px;
+width: 50px;
+}
+.habit_text{
+    font-family: Work Sans;
+font-size: 30px;
+font-weight: 700;
+line-height: 35px;
+text-align: center;
+color: #737272;
+}
+.habit_decpriction{
+    font-family: Work Sans;
+font-size: 25px;
+font-weight: 500;
+line-height: 29px;
+color: #737272;
+}
+/* bad habit end  */
 /* Awlays keep a positive mindset part start */
 .background{
 
